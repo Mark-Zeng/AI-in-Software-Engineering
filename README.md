@@ -1,7 +1,5 @@
 # AI in Software Engineering
 
-## Link to the Article
-
 [6 Ways AI Transforms How We Develop Software](https://www.google.com/amp/s/www.forbes.com/sites/mariyayao/2018/04/18/6-ways-ai-transforms-how-we-develop-software/amp/)
 
 ## Why Interesting
